@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class ejercicio1 {
+public class leerteclado {
 
     BufferedReader br =new BufferedReader(new InputStreamReader(System.in));   
     
